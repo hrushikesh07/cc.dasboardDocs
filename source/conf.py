@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# cc-docs documentation build configuration file, created by
+# Command Center documentation build configuration file, created by
 # sphinx-quickstart on Wed Aug 29 17:37:52 2018.
 #
 # This file is execfile()d with the current directory set to its
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'cc-docs'
+project = u'Command Center'
 copyright = u'2018, cc'
 author = u'cc'
 
@@ -131,7 +131,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'cc-docs.tex', u'cc-docs Documentation',
+    (master_doc, ' CommandCenter.tex', u'Command Center Documentation',
      u'cc', 'manual'),
 ]
 
@@ -141,7 +141,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'cc-docs', u'cc-docs Documentation',
+    (master_doc, 'CommandCenter', u'Command Center Documentation',
      [author], 1)
 ]
 
@@ -152,8 +152,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'cc-docs', u'cc-docs Documentation',
-     author, 'cc-docs', 'One line description of project.',
+    (master_doc, 'CommandCenter', u'Command Center Documentation',
+     author, 'CommandCenter', 'One line description of project.',
      'Miscellaneous'),
 ]
 

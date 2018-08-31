@@ -1,10 +1,10 @@
-.. cc-docs documentation master file, created by
+.. Command Center documentation master file, created by
    sphinx-quickstart on Wed Aug 29 17:37:52 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to cc-docs's documentation!
-===================================
+Welcome to Command Center documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
