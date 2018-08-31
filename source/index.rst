@@ -27,7 +27,6 @@ Indices and tables
    :caption: User Documentation
 
    Introduction
-   gettingstarted
    
    
 
